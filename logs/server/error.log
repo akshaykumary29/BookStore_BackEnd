@@ -82,3 +82,61 @@ error:
     method - POST 
     IP - ::ffff:127.0.0.1
    {"timestamp":"2022-02-09T08:14:13.170Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T14:26:33.982Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T14:28:19.346Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T14:29:46.857Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T14:42:22.353Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T14:42:23.526Z"}
+error: 
+    status - 500 
+    message - TypeError: BookService.getBooks is not a function
+    at _callee2$ (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\src\controllers\/book.controller.js:28:40)
+    at tryCatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at getBooks (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\src\controllers\/book.controller.js:26:22)
+    at Layer.handle [as handle_request] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\express\lib\router\index.js:341:12) 
+    url - /api/v1/book/getbook 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T17:55:58.100Z"}

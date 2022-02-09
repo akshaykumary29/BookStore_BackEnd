@@ -28,3 +28,27 @@ info: ::ffff:127.0.0.1 - - [09/Feb/2022:08:14:13 +0000] "POST /api/v1/users/user
 
 info: ::ffff:127.0.0.1 - - [09/Feb/2022:08:15:00 +0000] "POST /api/v1/users/user HTTP/1.1" 201 396 "-" "Thunder Client (https://www.thunderclient.com)"
 
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:14:26:33 +0000] "POST /api/v1/users/login HTTP/1.1" 500 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:14:28:19 +0000] "POST /api/v1/users/login HTTP/1.1" 500 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:14:29:46 +0000] "POST /api/v1/users/login HTTP/1.1" 500 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:14:42:22 +0000] "POST /api/v1/users/login HTTP/1.1" 500 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:14:42:23 +0000] "POST /api/v1/users/login HTTP/1.1" 500 49 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:37:24 +0000] "POST /api/v1/users/addbook HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:40:18 +0000] "POST /api/v1/book/addbook HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:40:36 +0000] "POST /api/v1/book/addbook HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:42:31 +0000] "POST /api/v1/book/addbook HTTP/1.1" 201 316 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:43:06 +0000] "POST /api/v1/users/login HTTP/1.1" 200 421 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:55:30 +0000] "GET /api/v1/book HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:55:58 +0000] "GET /api/v1/book/getbook HTTP/1.1" 500 73 "-" "Thunder Client (https://www.thunderclient.com)"
+

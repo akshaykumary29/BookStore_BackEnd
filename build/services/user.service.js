@@ -103,7 +103,7 @@ var login = /*#__PURE__*/function () {
               data: ''
             };
             _context2.next = 3;
-            return _user["default"].findOne({
+            return _user["default"].find({
               email: body.email
             });
 
