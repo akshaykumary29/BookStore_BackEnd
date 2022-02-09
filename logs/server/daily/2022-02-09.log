@@ -1,0 +1,94 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-09T02:11:48.997Z"}
+info: Connected to the database. {"timestamp":"2022-02-09T02:11:49.337Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee$ (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\build\services\user.service.js:44:44)
+    at tryCatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/user 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T02:15:41.348Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee$ (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\build\services\user.service.js:44:44)
+    at tryCatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/user 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T02:21:07.906Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee$ (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\build\services\user.service.js:44:44)
+    at tryCatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/user 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T02:24:55.341Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee$ (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\build\services\user.service.js:44:44)
+    at tryCatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/user 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T02:30:39.884Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-09T07:16:26.455Z"}
+info: Connected to the database. {"timestamp":"2022-02-09T07:16:26.639Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-02-09T08:06:03.429Z"}
+info: Connected to the database. {"timestamp":"2022-02-09T08:06:03.595Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-02-09T08:07:29.189Z"}
+info: Connected to the database. {"timestamp":"2022-02-09T08:07:29.321Z"}
+error: 
+    status - 500 
+    message - ReferenceError: hashedPassword is not defined
+    at _callee$ (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\src\services\/user.service.js:16:17)
+    at tryCatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/user 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T08:07:35.884Z"}
+error: 
+    status - 500 
+    message - ReferenceError: hashedPassword is not defined
+    at _callee$ (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\src\services\/user.service.js:16:17)
+    at tryCatch (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\Akshay\Desktop\BookStore-BackEnd\bookstore\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/user 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-02-09T08:14:13.170Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-02-09T08:14:49.686Z"}
+info: Connected to the database. {"timestamp":"2022-02-09T08:14:49.840Z"}
