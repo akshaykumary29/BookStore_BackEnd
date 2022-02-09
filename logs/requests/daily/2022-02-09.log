@@ -52,3 +52,5 @@ info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:55:30 +0000] "GET /api/v1/book HTTP/1
 
 info: ::ffff:127.0.0.1 - - [09/Feb/2022:17:55:58 +0000] "GET /api/v1/book/getbook HTTP/1.1" 500 73 "-" "Thunder Client (https://www.thunderclient.com)"
 
+info: ::ffff:127.0.0.1 - - [09/Feb/2022:18:06:54 +0000] "GET /api/v1/book/getbook HTTP/1.1" 200 310 "-" "Thunder Client (https://www.thunderclient.com)"
+

@@ -154,3 +154,5 @@ error:
     method - GET 
     IP - ::ffff:127.0.0.1
    {"timestamp":"2022-02-09T17:55:58.100Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-02-09T18:06:41.120Z"}
+info: Connected to the database. {"timestamp":"2022-02-09T18:06:41.273Z"}
